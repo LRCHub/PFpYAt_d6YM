@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Virtue and Vice",
+  "base_artist": "Fear, and Loathing in Las Vegas",
+  "createdAt": "2026-02-25T14:27:18.603986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Virtue and Vice",
+      "artist": "Delain",
+      "has_synced": true,
+      "path": "select/01_Virtue_and_Vice_Delain.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Virtue and Vice",
+      "artist": "The Black Crowes",
+      "has_synced": true,
+      "path": "select/02_Virtue_and_Vice_The_Black_Crowes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Virtue and Vice",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/03_Virtue_and_Vice_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Virtue and Vice",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/04_Virtue_and_Vice_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Virtue And Vice (Album Version)",
+      "artist": "The Black Crowes",
+      "has_synced": true,
+      "path": "select/05_Virtue_And_Vice_(Album_Version)_The_Black_Crowes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Virtue And Vice",
+      "artist": "Holy Soldier",
+      "has_synced": false,
+      "path": "select/06_Virtue_And_Vice_Holy_Soldier.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Virtue And Vice",
+      "artist": "Black Crowes",
+      "has_synced": true,
+      "path": "select/07_Virtue_And_Vice_Black_Crowes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Virtue and Vice",
+      "artist": "Delain",
+      "has_synced": true,
+      "path": "select/08_Virtue_and_Vice_Delain.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "virtue and vice",
+      "artist": "holy soldier",
+      "has_synced": true,
+      "path": "select/09_virtue_and_vice_holy_soldier.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Virtue and Vice",
+      "artist": "Delain",
+      "has_synced": true,
+      "path": "select/10_Virtue_and_Vice_Delain.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "virtue and vice",
+      "artist": "black crowes the",
+      "has_synced": true,
+      "path": "select/11_virtue_and_vice_black_crowes_the.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Virtue And Vice",
+      "artist": "Delain",
+      "has_synced": true,
+      "path": "select/12_Virtue_And_Vice_Delain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Virtue and Vice",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": false,
+      "path": "select/pl_01_Virtue_and_Vice_Fear,_and_Loathing_in_Las_Vegas.txt"
+    }
+  ]
+}
