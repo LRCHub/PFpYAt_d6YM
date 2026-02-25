@@ -1,0 +1,78 @@
+# Fear, and Loathing in Las Vegas – Virtue and Vice
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Don't know what's being
+misunderstood
+Missiles flying, children
+getting shot
+Swindles everywhere
+People who should be the most
+loved ones, killing
+each other
+Once you keep an eye off, things
+get stolen
+The world is like this
+The world we don't know
+The unknown world
+Out of our hands
+It don't matter
+Covering it up, acting like you
+don't see a thing
+If you think it's a defferent
+thing
+You won't notice that the world
+you live in is
+eventually hitting towards this
+matter
+Look at it
+Oh yeah! The world is all linked
+together
+Save our loved ones and the
+world
+These peaceful days lasting is a
+wish
+Because I have no idea
+How many tickets “to live
+today” are
+Even at the time when you were
+playing cards
+Somewhere in the world, somebody
+is crying
+Us to one
+Let me hear your voice!
+Oi oi oi oi oi oi oi…
+It still is way too quite!
+Oi oi oi oi oi oi oi…
+We all have weaknesses
+Losing against it is the end
+Don't limit yourself
+Got to change them
+Raise your voice
+To fight it out against your
+weak self
+We sure do gotta change theme
+The raising worries, the falling
+cold sweats on
+the back
+Backing off saying “can not
+make it happen”
+You really think ?
+You really think ?
+Shake it off and move on
+Shake it off and move on
+just you are my love Your
+pure feeling
+That beautiful voice It's so
+valuable
+I wanna stay with you, not only
+tonight
+The words that fell from you
+Let us change it to connect
+tomorrow
+Let's sing until our voices die
+There must be many walls
+There must be times you will be
+breaking down
+```
